@@ -10,8 +10,8 @@ Link to site: N/A
 
 #### ASP.NET Core was used to create this web application.
 <p align="center">
-  <a href="HTML/CSS/JS, PHP, MySql, C#, Bootsrap, Node.js, jQuery">
-    <img src="https://skillicons.dev/icons?i=cs,html,bootstrap,css,js,jquery" />
+  <a href="Skill_Icons - C#, dotNet, HTML, Bootsrap, CSS, Js, jQuery">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,bootstrap,css,js,jquery" />
   </a>
 </p>
 
