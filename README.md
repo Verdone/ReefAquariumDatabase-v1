@@ -30,3 +30,5 @@
 
 ## Image Gallery
 
+#### Application Architecture:
+![Application design visualization.](images/application-design.png)
